@@ -1,2 +1,2 @@
 # hello-world
-repositório inicial
+repositório inicial de Elixir
